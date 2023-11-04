@@ -1,0 +1,34 @@
+web atractiva, visualmente como el contenido que se muestra
+Contar historias sobre cada niño en adopcion y que sea de facil acceso
+
+fuentes fiables y cifras reales.
+
+
+REQUISITOS
+
+5 paginas web, una de ellas orientada al acogimiento familiar,
+	pasos a seguir y procedimientos para ofrecerse como apadrinar.
+
+
+contener imagenes
+
+contenido responsive especialmente a movil, bootstrap ya es responsive, pero comprobar
+
+soporte a navegadores ya lo tiene bootstrap
+
+5 animaciones/transiciones , distintas elegir bien donde ponerlas
+
+usar alguna de estas herramientas
+	flexbox
+	css grid
+	imagenes responsive..
+
+------------
+
+5 personas de publico objetivo
+
+modelo conceptual, conceptos que se manejan en la web y sus relaciones
+
+mapa del sitio
+
+wireframe de las paginas de la web
