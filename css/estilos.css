@@ -39,8 +39,9 @@ p {
     text-align: justify;
 }
 
-body {
-    background-color: antiquewhite;
+body,
+header {
+    background-color: rgb(245, 211, 167);
 }
 
 a {
